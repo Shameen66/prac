@@ -1,0 +1,31 @@
+.home {
+    background-image: url(home.jpg);
+    object-fit: cover;
+}
+.tv{
+    border-bottom: 10px solid #232323;
+    border-top: 10px solid #232323;
+}
+.mobile,.faq{
+    border-bottom: 10px solid #232323;
+}
+.accordion-item,.accordion-button{
+    background-color: #414141;
+    color: white;
+}
+.footer .container .row .col ul li{
+    background-color: black;
+}
+.footer .container .row .col ul li a{
+  color: white;
+}
+.mobile h2,.tv h2,.faq h2{
+    font-size: 42px;
+    font-weight: bolder;
+}
+
+.mobile p,.tv p{
+    font-size: 24px;
+
+}
+
